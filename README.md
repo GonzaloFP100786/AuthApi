@@ -23,9 +23,9 @@ git clone https://github.com/GonzaloFP100786/AuthApi
 
 2. Restaura los paquetes NuGet:
  
-dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+- dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+- dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+- dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
 
 3. Ejecuta la API:
 
