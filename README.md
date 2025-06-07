@@ -18,7 +18,7 @@ API RESTful construida con ASP.NET Core (.NET 8) e Identity Core para autenticac
 ## Instalación
 
 1. Clona el repositorio:
-git clone https://github.com/GonzaloFP100786/AuthApi
+- git clone https://github.com/GonzaloFP100786/AuthApi
 
 
 2. Restaura los paquetes NuGet:
@@ -29,7 +29,7 @@ git clone https://github.com/GonzaloFP100786/AuthApi
 
 3. Ejecuta la API:
 
-dotnet run
+- dotnet run
 
 ## Uso
 
